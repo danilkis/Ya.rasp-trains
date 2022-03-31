@@ -175,12 +175,12 @@ To-Do
 -----
 
 1.  Сделать обработку исключения при ошибке 400 \| Deal with exception “bad
-    request 400”
+    request 400” ✓
 
 2.  Сделать проверку на дату \| Make a function that checks the date
 
 3.  Сделать получение всех станций по направлению автоматически \| Make getting
-    station ID’s automatic
+    station ID’s automatic ✓
 
 4.  Попробавть дописать модуль работы с алисой \| Try to make it work with alice
     voice assistant

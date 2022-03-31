@@ -48,6 +48,18 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.115.5, )"
+            },
             "System.Net.Http": {
               "target": "Package",
               "version": "[4.3.4, )"

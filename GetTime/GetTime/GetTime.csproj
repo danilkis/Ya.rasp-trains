@@ -9,6 +9,9 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="SQLite" Version="3.13.0" />
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.115.5" />
     <PackageReference Include="System.Net.Http" Version="4.3.4" />
     <PackageReference Include="Yandex.Alice.Sdk" Version="2.1.1" />
   </ItemGroup>

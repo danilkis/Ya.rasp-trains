@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetTime", "GetTime\GetTime.csproj", "{F8BF1945-9258-48BD-94FB-DC4CC9F924AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{308FE5A4-81A7-4EA9-95F3-E68D20AAEF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8BF1945-9258-48BD-94FB-DC4CC9F924AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BF1945-9258-48BD-94FB-DC4CC9F924AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BF1945-9258-48BD-94FB-DC4CC9F924AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BF1945-9258-48BD-94FB-DC4CC9F924AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41503DDC-B6B4-4209-BD79-BBF38FE7692D}
+	EndGlobalSection
+EndGlobal

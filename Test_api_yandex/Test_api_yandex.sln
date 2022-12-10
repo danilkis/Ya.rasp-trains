@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_api_yandex", "Test_api_yandex\Test_api_yandex.csproj", "{9390E792-E586-4386-949B-2C65F3312A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9390E792-E586-4386-949B-2C65F3312A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9390E792-E586-4386-949B-2C65F3312A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9390E792-E586-4386-949B-2C65F3312A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9390E792-E586-4386-949B-2C65F3312A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEDF3176-A95E-43C6-A22C-B273E0402420}
+	EndGlobalSection
+EndGlobal
